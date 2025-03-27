@@ -1,2 +1,3 @@
-# Data-Analysis-Portfolio-
-Personal Data Analysis Projects and Dashboards
+# Data-Analysis-Portfolio
+## Personal projects and interactive dashboards
+
